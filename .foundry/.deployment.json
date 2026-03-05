@@ -1,0 +1,9 @@
+{
+  "hostedAgentDeployOptions": {
+    "dockerContextPath": "/workspaces/sequential-orchestration-writer",
+    "dockerfilePath": "/workspaces/sequential-orchestration-writer/Dockerfile",
+    "cpu": "1.0",
+    "memory": "2.0Gi",
+    "agentName": "sequential-orchestration-writer"
+  }
+}
